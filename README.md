@@ -1,9 +1,31 @@
-## Disclaimer
+Space Web
 
-This source code is shared **for learning purposes only**. I created it to help beginners explore and experiment with coding techniques, and I’m happy to provide it freely for educational use.
+Overview
 
-**Please respect the intent of this resource:**
-- Do not resell or distribute this code as-is for commercial purposes.
-- Before using any part of this code in your own projects, especially commercially, ensure that you’ve modified it to fit your unique needs and **always check any applicable licensing requirements**.
+Space Web is a visually engaging and interactive website that explores the wonders of the universe. The platform offers immersive experiences, reliable insights, and a user-friendly interface designed for all space enthusiasts, from beginners to experts.
 
-Thank you for understanding, and happy coding!
+Features
+
+Interactive and Engaging UI: Uses animations (AOS) for smooth transitions and visual effects.
+
+Feather Icons Integration: Enhances UI elements with beautiful icons.
+
+Google Fonts: Provides stylish typography with "Audiowide" and "Saira" fonts.
+
+Responsive Design: Ensures optimal viewing experience across different devices.
+
+Information on Space Exploration: Presents insights into planets, galaxies, and cosmic phenomena.
+
+Popular Space Destinations: Showcases intriguing celestial bodies like Saturn and the Moon.
+
+Technologies Used
+
+HTML5: Structure and content presentation.
+
+CSS3: Styling and animations.
+
+JavaScript: Enhances interactivity.
+
+AOS (Animate On Scroll): Creates smooth scrolling animations.
+
+Feather Icons: Provides lightweight and customizable icons.
